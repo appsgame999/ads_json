@@ -1,6 +1,6 @@
 {
   
-  "global_intra_interval_click":3,
+  "global_intra_interval_click":2,
   "interstitial_ad_time_interval":0,
   "ads_sequence": [
    
@@ -23,7 +23,7 @@
     "no_of_click_interstitial": 1
   },
   "custom_ads": {
-    "qureka_link": "https://490.go.qureka.com/intro/question",
+    "qureka_link": "https://372.go.qureka.com/intro/question",
     "is_quraka_banner": true,
     "is_quraka_intera": true,
     "close_button_to_direct_web": true,
@@ -47,15 +47,15 @@
   "app_lovin": {
     "id_unit_banner": "512e25ddeaa51bfa",
     "id_unit_intra": "9ed16cd03cc38239",
-    "id_unit_native": "c9e5f467f320ff02",
-    "rewared_ads_unit_id": "0a11656aa2e21831",
+    "id_unit_native": "",
+    "rewared_ads_unit_id": "",
     "is_banner_ads": true,
     "is_interstitial_ads": true,
     "is_native_ads": true,
         "is_rewared_ads": true
   },
   "unity_ads": {
-    "game_id": "4737797",
+    "game_id": "",
     "is_intra_ads": true,
     "is_banner_ads": true,
     "is_rewared_ads": true

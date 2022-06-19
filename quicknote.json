@@ -1,6 +1,6 @@
 {
   
-  "global_intra_interval_click":4,
+  "global_intra_interval_click":6,
   "interstitial_ad_time_interval":0,
   "ads_sequence": [
    
@@ -50,9 +50,9 @@
     "id_unit_native": "",
     "rewared_ads_unit_id": "",
     "is_banner_ads": true,
-    "is_interstitial_ads": true,
-    "is_native_ads": true,
-        "is_rewared_ads": true
+    "is_interstitial_ads": false,
+    "is_native_ads": false,
+        "is_rewared_ads": false
   },
   "unity_ads": {
     "game_id": "",

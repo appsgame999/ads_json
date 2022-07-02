@@ -1,10 +1,23 @@
 {
   
-  "global_intra_interval_click":6,
+  "global_intra_interval_click":1,
   "interstitial_ad_time_interval":0,
-  "ads_sequence": [
-   
+  "intra_ads_sequence": [
     "app_lovin",
+    "google_ads",
+    "custom_ads"
+  ],
+  
+   "banner_ads_sequence": [
+    "app_lovin",
+    "google_ads",
+    "custom_ads"
+  ],
+  
+  
+   "native_ads_sequence": [
+    "app_lovin",
+    "google_ads",
     "custom_ads"
   ],
   
@@ -16,7 +29,7 @@
     "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
     "rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
     "is_banner_ads": true,
-    "is_open_ads": false,
+    "is_open_ads": true,
     "is_interstitial_ads": true,
     "is_rewared_ads":true,
     "is_native_ads": true,
@@ -45,13 +58,13 @@
     ]
   },
   "app_lovin": {
-    "id_unit_banner": "512e25ddeaa51bfa",
-    "id_unit_intra": "9ed16cd03cc38239",
-    "id_unit_native": "",
+    "id_unit_banner": "c08067ae139eaaa2",
+    "id_unit_intra": "602c2b5ce65417d7",
+    "id_unit_native": "6074a8786d044df2",
     "rewared_ads_unit_id": "",
     "is_banner_ads": true,
-    "is_interstitial_ads": false,
-    "is_native_ads": false,
+    "is_interstitial_ads": true,
+    "is_native_ads": true,
         "is_rewared_ads": false
   },
   "unity_ads": {

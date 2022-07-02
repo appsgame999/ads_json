@@ -60,7 +60,7 @@
   "custom_ads": {
     "is_custom_banner": true,
     "close_button_to_direct_web": true,
-    "custom_intra_image": [
+    "custom_banner_image": [
       {
           "image_url":"https://www.wordstream.com/wp-content/uploads/2021/07/banner-ads-examples-ncino.jpg",
           "playstore_url":"https://play.google.com/store/apps/details?id=women.workout.female.fitness"

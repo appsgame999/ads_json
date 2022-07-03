@@ -3,22 +3,22 @@
   "global_intra_interval_click":1,
   "interstitial_ad_time_interval":0,
   "intra_ads_sequence": [
-    "app_lovin",
+   
     "google_ads",
-    "custom_ads"
+    
   ],
   
    "banner_ads_sequence": [
-    "app_lovin",
+    
     "google_ads",
-    "custom_ads"
+  
   ],
   
   
    "native_ads_sequence": [
-    "app_lovin",
+   
     "google_ads",
-    "custom_ads"
+  
   ],
   
   "google_ads": {

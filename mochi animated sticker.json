@@ -1,0 +1,106 @@
+{
+  "one_signal_id":"4291ccf0-dd6f-4b45-9ace-a4074820bb99",
+  "global_intra_interval_click":1,
+  "interstitial_ad_time_interval":0,
+  "intra_ads_sequence": [
+   "app_lovin",
+    "google_ads"
+    
+  ],
+  
+   "banner_ads_sequence": [
+    "app_lovin",
+    "google_ads"
+  
+  ],
+  
+  
+   "native_ads_sequence": [
+   "app_lovin",
+    "google_ads"
+  
+  ],
+  
+  "google_ads": {
+    "banner_ad_unit_id_android": "/6499/example/banner",
+    "interstitial_ad_unit_id_android": "/6499/example/interstitial",
+    "app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
+    "native_ads_unit_id_android": "/6499/example/native",
+    "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
+    "rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
+    "is_banner_ads": true,
+    "is_open_ads": true,
+    "is_interstitial_ads": true,
+    "is_rewared_ads":true,
+    "is_native_ads": true,
+    "no_of_click_interstitial": 1
+  },
+  "qureka_ads": {
+    "qureka_link": "https://372.go.qureka.com/intro/question",
+    "is_quraka_banner": true,
+    "is_quraka_intera": true,
+    "close_button_to_direct_web": true,
+    "quraka_intra_image": [
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
+    ],
+    "quraka_banner_image": [
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+      "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+    ]
+  },
+  "custom_ads": {
+    "is_custom_banner": true,
+    "close_button_to_direct_web": true,
+    "custom_banner_image": [
+      {
+          "image_url":"https://www.wordstream.com/wp-content/uploads/2021/07/banner-ads-examples-ncino.jpg",
+          "playstore_url":"https://play.google.com/store/apps/details?id=women.workout.female.fitness"
+      },
+      {
+          "image_url":"https://www.wordstream.com/wp-content/uploads/2021/07/banner-ads-examples-ncino.jpg",
+          "playstore_url":"https://play.google.com/store/apps/details?id=women.workout.female.fitness"
+      },
+      {
+          "image_url":"https://www.wordstream.com/wp-content/uploads/2021/07/banner-ads-examples-ncino.jpg",
+          "playstore_url":"https://play.google.com/store/apps/details?id=women.workout.female.fitness"
+      },
+      {
+          "image_url":"https://www.wordstream.com/wp-content/uploads/2021/07/banner-ads-examples-ncino.jpg",
+          "playstore_url":"https://play.google.com/store/apps/details?id=women.workout.female.fitness"
+      },
+      {
+          "image_url":"https://www.wordstream.com/wp-content/uploads/2021/07/banner-ads-examples-ncino.jpg",
+          "playstore_url":"https://play.google.com/store/apps/details?id=women.workout.female.fitness"
+      },
+      {
+          "image_url":"https://www.wordstream.com/wp-content/uploads/2021/07/banner-ads-examples-ncino.jpg",
+          "playstore_url":"https://play.google.com/store/apps/details?id=women.workout.female.fitness"
+      }
+    ]
+  },  
+  "app_lovin": {
+    "id_unit_banner": "c08067ae139eaaa2",
+    "id_unit_intra": "602c2b5ce65417d7",
+    "id_unit_native": "6074a8786d044df2",
+    "rewared_ads_unit_id": "",
+    "is_banner_ads": true,
+    "is_interstitial_ads": true,
+    "is_native_ads": true,
+    "is_rewared_ads": false
+  },
+  "unity_ads": {
+    "game_id": "",
+    "is_intra_ads": true,
+    "is_banner_ads": true,
+    "is_rewared_ads": true
+  }
+}

@@ -60,13 +60,13 @@
       ]
     },
     "app_lovin": {
-      "id_unit_banner": "517206a4b4e5706e",
-      "id_unit_intra": "4d42068d6dfa1563",
+      "id_unit_banner": "2b29f874ac400af5",
+      "id_unit_intra": "8bb61cf3177418ae",
       "id_unit_native": "",
       "id_unit_native_multiple": {
         "small": "",
-        "medium": "9643bd80a1b01338",
-        "manual": "18d1a4dc9419a162"
+        "medium": "",
+        "manual": "aa8e0eca1c7b511f"
       },
       "rewared_ads_unit_id": "",
       "is_banner_ads": true,

@@ -1,0 +1,85 @@
+{
+  "com.wastickerappsmochi.mochipeachcat.mochistickers.animated.stickersforwhatsapp.mochi.cat.meme": {
+    "ads_sequence": [
+ "facebook_ads",
+      "app_lovin",
+      "custom_ads"
+    ],
+    "ad_setting": {
+      "is_full_ads": true,
+      "onesignal_id": "bc8c8cb4-ab93-4a6e-9363-aa2e080a9d69",
+      "global_intra_interval_click": 3,
+      "interstitial_ad_time_interval": 1
+    },
+    "google_ads": {
+      "banner_ad_unit_id_android": "",
+      "interstitial_ad_unit_id_android": "",
+      "app_open_ad_unit_id_android": "",
+      "native_ads_unit_id_android": "/6499/example/native",
+      "rewared_ads_unit_id": "/6499/example/rewarded",
+      "native_video_ads_unit_id_android": "/6499/example/native-video",
+      "is_banner_ads": true,
+      "is_open_ads": true,
+      "is_interstitial_ads": true,
+      "is_rewared_ads": false,
+      "is_native_ads": true,
+      "no_of_click_interstitial": 2
+    },
+    "facebook_ads": {
+      "banner_ad_unit_id_android": "728428458459793_728428901793082",
+      "interstitial_ad_unit_id_android": "728428458459793_728428985126407",
+      "app_open_ad_unit_id_android": "",
+      "native_ads_unit_id_android": "728428458459793_728429108459728",
+      "rewared_ads_unit_id": "780247469823450_780249046489959",
+      "native_video_ads_unit_id_android": "780247469823450_780249129823284",
+      "is_banner_ads": true,
+      "is_open_ads": true,
+      "is_interstitial_ads": true,
+      "is_rewared_ads": true,
+      "is_native_ads": true
+    },
+    "custom_ads": {
+      "qureka_link": "https://372.go.qureka.com/intro/question",
+      "is_quraka_banner": true,
+      "is_quraka_intera": true,
+      "close_button_to_direct_web": false,
+      "quraka_intra_image": [
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
+      ],
+      "quraka_banner_image": [
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+        "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+      ]
+    },
+    "app_lovin": {
+      "id_unit_banner": "3b05d7d138e8ca8b",
+      "id_unit_intra": "29178ec046390078",
+      "id_unit_native": "",
+      "id_unit_native_multiple": {
+        "small": "",
+        "medium": "a44a8bb23a8fe3f1",
+        "manual": "a44a8bb23a8fe3f1"
+      },
+      "rewared_ads_unit_id": "",
+      "is_banner_ads": true,
+      "is_interstitial_ads": true,
+      "is_native_ads": true,
+      "is_rewared_ads": true
+    },
+    "unity_ads": {
+      "game_id": "",
+      "is_intra_ads": true,
+      "is_banner_ads": true,
+      "is_rewared_ads": true
+    }
+  }
+}x

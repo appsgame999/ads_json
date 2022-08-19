@@ -26,12 +26,12 @@
       "no_of_click_interstitial": 2
     },
     "facebook_ads": {
-      "banner_ad_unit_id_android": "728428458459793_728428901793082",
-      "interstitial_ad_unit_id_android": "728428458459793_728428985126407",
+      "banner_ad_unit_id_android": "1406497546500964_1406498289834223",
+      "interstitial_ad_unit_id_android": "1406497546500964_1406498379834214",
       "app_open_ad_unit_id_android": "",
-      "native_ads_unit_id_android": "728428458459793_728429108459728",
+      "native_ads_unit_id_android": "1406497546500964_1406498503167535",
       "rewared_ads_unit_id": "780247469823450_780249046489959",
-      "native_video_ads_unit_id_android": "780247469823450_780249129823284",
+      "native_video_ads_unit_id_android": "1406497546500964_1406498503167535",
       "is_banner_ads": true,
       "is_open_ads": true,
       "is_interstitial_ads": true,

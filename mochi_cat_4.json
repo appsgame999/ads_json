@@ -6,7 +6,7 @@
     "ad_setting": {
       "is_full_ads": true,
       "onesignal_id": "bc8c8cb4-ab93-4a6e-9363-aa2e080a9d69",
-      "global_intra_interval_click": 1,
+      "global_intra_interval_click": 2,
       "interstitial_ad_time_interval": 1
     },
     "google_ads": {

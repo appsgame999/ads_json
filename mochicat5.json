@@ -1,5 +1,5 @@
 {
-  "com.wastickerappsmochi.mochipeachcat.mochistickers.animated.stickersforwhatsapp.mochi.cat.meme.mochi.cat": {
+  "com.wastickerappsmochi.mochipeachcat.mochistickers.animated.stickersforwhatsapp.mochicat.meme.mochicat.meme": {
     "ads_sequence": [
  "facebook_ads",
       "app_lovin",
@@ -61,13 +61,13 @@
       ]
     },
     "app_lovin": {
-      "id_unit_banner": "1ed3e23762cc664b",
-      "id_unit_intra": "22d5304b3e33cce8",
-      "id_unit_native": "aea0f4dc040bbec1",
+      "id_unit_banner": "1d52aa9f4cf5a361",
+      "id_unit_intra": "7a7846f63ca09f81",
+      "id_unit_native": "2b4c7ea5f1827f08",
       "id_unit_native_multiple": {
-        "small": "aea0f4dc040bbec1",
-        "medium": "aea0f4dc040bbec1",
-        "manual": "aea0f4dc040bbec1"
+        "small": "2b4c7ea5f1827f08",
+        "medium": "2b4c7ea5f1827f08",
+        "manual": "2b4c7ea5f1827f08"
       },
       "rewared_ads_unit_id": "",
       "is_banner_ads": true,

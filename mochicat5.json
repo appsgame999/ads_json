@@ -1,7 +1,8 @@
 {
   "com.wastickerappsmochi.mochipeachcat.mochistickers.animated.stickersforwhatsapp.mochicat.meme.mochicat.meme": {
     "ads_sequence": [
-
+"facebook_ads",
+      "app_lovin"
     ],
     "ad_setting": {
       "is_full_ads": true,

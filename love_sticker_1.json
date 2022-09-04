@@ -1,7 +1,8 @@
 {
   "com.us.romanticstickers.lovestickers.couplelovestickers.love.romantic": {
     "ads_sequence": [
-"google_ads"
+"facebook_ads",
+      "app_lovin"
     ],
     "ad_setting": {
       "is_full_ads": true,

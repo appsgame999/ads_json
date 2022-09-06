@@ -1,8 +1,7 @@
 {
   "com.stickers.thankyou.wastickerapps.animated.thankyoustickers.thankyou": {
     "ads_sequence": [
-"app_lovin",
-      "facebook_ads"
+
     ],
     "ad_setting": {
       "is_full_ads": true,

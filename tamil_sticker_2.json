@@ -1,8 +1,7 @@
 {
   "com.webinvito.tamilstickers.tamil": {
     "ads_sequence": [
-"google_ads",
-      "app_lovin"
+
     ],
     "ad_setting": {
       "is_full_ads": true,

@@ -1,7 +1,8 @@
 {
   "com.stickers.thankyou.wastickerapps.animated.thankyoustickers.thankyou": {
     "ads_sequence": [
-
+"facebook_ads",
+      "app_lovin"
     ],
     "ad_setting": {
       "is_full_ads": true,
@@ -24,12 +25,12 @@
       "no_of_click_interstitial": 0
     },
     "facebook_ads": {
-      "banner_ad_unit_id_android": "728428458459793_728428901793082",
-      "interstitial_ad_unit_id_android": "728428458459793_728428985126407",
+      "banner_ad_unit_id_android": "870194923963318_870195343963276",
+      "interstitial_ad_unit_id_android": "870194923963318_870195403963270",
       "app_open_ad_unit_id_android": "",
-      "native_ads_unit_id_android": "728428458459793_728429108459728",
+      "native_ads_unit_id_android": "870194923963318_870195513963259",
       "rewared_ads_unit_id": "",
-      "native_video_ads_unit_id_android": "1406497546500964_1406498503167535",
+      "native_video_ads_unit_id_android": "870194923963318_870195513963259",
       "is_banner_ads": true,
       "is_open_ads": true,
       "is_interstitial_ads": true,

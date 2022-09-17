@@ -11,13 +11,13 @@
       "interstitial_ad_time_interval": 1
     },
     "google_ads": {
-   "banner_ad_unit_id_android": "/6499/example/banner",
+   "banner_ad_unit_id_android": "/21753324030,22820476569/com.wastickerappsmochi.mochipeachcat.mochistickers.animated_Banner",
 
-      "interstitial_ad_unit_id_android": "/6499/example/interstitial",
+      "interstitial_ad_unit_id_android": "/21753324030,22820476569/com.wastickerappsmochi.mochipeachcat.mochistickers.animated_Interstitial",
 
-      "app_open_ad_unit_id_android": "/6499/example/app-open",
+      "app_open_ad_unit_id_android": "/21753324030,22820476569/com.wastickerappsmochi.mochipeachcat.mochistickers.animated_AppOpen",
 
-      "native_ads_unit_id_android": "/6499/example/native",
+      "native_ads_unit_id_android": "/21753324030,22820476569/com.wastickerappsmochi.mochipeachcat.mochistickers.animated_Native",
 
       "rewared_ads_unit_id": "/6499/example/rewarded",
 

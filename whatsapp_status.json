@@ -1,0 +1,192 @@
+{	
+    "app_logo":"",
+    "app_title":"",
+    "ads_sequence": [
+      "google_ads"
+    ],	
+    "more_app_url": "https://play.google.com/store/apps/developer?id=Minichat+inc", 	
+    "extra_url": "", 	
+    "ad_setting": {	
+      "app_version_code": 5,
+      "is_full_ads": true,
+      "onesignal_id": "", 
+      "ads_loading_text": "Ads will loading...",
+      "seconds_require_triger_reward": 1,	
+      "global_intra_interval_click": 1,
+      "interstitial_ad_time_interval": 1
+    },	
+    "app_update": {	
+      "is_popup_dialog": true,
+      "is_update_require": false,
+      "package_id": "com.adult.iptv.hot.playlist", 
+      "website_url": "https://play.google.com/store/apps/details?id=com.adult.iptv.hot.playlist", 
+      "app_icon": "https://play-lh.googleusercontent.com/puoKL06VOKbYoXPB-O2JfueIgMDuy2vGWdSZ7f7XsGG9idZQ7Sr42E54Uv-M5a5fqXo=w240-h480-rw",
+      "updated_version_code": 50,
+      "title": "Enjoy Free Live Channels",
+      "default_message": "Don't feel Alone."
+    }, 
+    "reward_dialog": {	
+      "is_reward_require": true,
+      "reward_message": "Watch Reward ads for More Random Video call"
+       },	
+    "exit_dialog": {	
+      "is_exit_require": true,
+      "exit_title": "Exit",
+      "exit_message": "Do you want to exit from App?"
+    },	
+    "About_App": {	
+      "is_override": false,
+      "is_about_app": true,
+      "about_title": "Bonita bate-papo por vídeo ao vivo", 
+      "about_message": "Random Video calling app",
+      "registration_detail": "Bonita bate-papo por vídeo ao vivo", 
+      "version_detail": "version : 1.0.0"
+    },	
+    "rate_app": {	
+      "is_rate_app": true,
+      "package_id": "com.minichat.bonita.aovivo", 
+      "rate_app_url": "https://play.google.com/store/apps/details?id=com.minichat.bonita.aovivo", 
+      "rate_message": "Please Rate us and promote us."
+    },	
+    "share_app": {	
+      "is_share_app": true,
+      "share_title": "Share link url :https://play.google.com/store/apps/details?id=com.minichat.bonita.aovivo", 
+      "share_message": "Now anyone can getBonita bate-papo por vídeo ao vivo app : https://play.google.com/store/apps/details?id=com.minichat.bonita.aovivo" 
+    },	
+    "privacy_policy": {	
+      "is_privacy_policy": true,
+      "is_system_browser": true,
+      "privacy_policy": "https://pages.flycricket.io/bonita-bate-papo-por/privacy.html" 
+    },	
+    "terms_of_use": {	
+      "is_terms_of_use": true,
+      "is_system_browser": true,
+      "terms_of_use": "https://pages.flycricket.io/bonita-bate-papo-por/privacy.html" 
+    },	
+    "error_report": {	
+      "is_error_report_support": true,
+      "email_id": "mailto:minichat.inc@gmail.com"
+    },	
+    "feedback_support": {	
+      "is_feedback_support": true,
+      "email_id":"mailto:minichat.inc@gmail.com",
+      "feedback_title": "Feedback on Bonita bate-papo por vídeo ao vivo",
+      "feedback_message": "Hi,\n\n\nYour Feedback Bonita bate-papo por vídeo ao vivo! I would like to give you some feedback:",
+      "email_subject": "Feedback on Bonita bate-papo por vídeo ao vivo",
+      "email_message": "Hi,\n\n\nYour Feedback Bonita bate-papo por vídeo ao vivo! I would like to give you some feedback:"
+      
+    },	
+    "google_ads": {	
+      "banner_ad_unit_id_android": "/6499/example/banner", 
+      "interstitial_ad_unit_id_android": "/6499/example/interstitial", 
+      "app_open_ad_unit_id_android": "/6499/example/app-open", 
+      "native_ads_unit_id_android": "/6499/example/native", 
+      "rewared_ads_unit_id": "/21775744923/example/rewarded_interstitial", 
+      "native_video_ads_unit_id_android": "/6499/example/native-video", 
+      "is_banner_ads": true,
+      "is_open_ads": true,
+      "is_interstitial_ads": true,
+      "is_rewared_ads": true,
+      "is_native_ads": true,
+      "no_of_click_interstitial": 1
+    },
+    
+    "facebook_ads": {	
+      "banner_ad_unit_id_android": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047", 
+      "interstitial_ad_unit_id_android": "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617", 
+      "rewared_ads_unit_id": "618306899712519_645292513680624", 
+      "native_ads_unit_id_android": "IMG_16_9_APP_INSTALL#2312433698835503_2964952163583650", 
+      "is_banner_ads": true,
+      "is_interstitial_ads": true,
+      "is_rewared_ads": true,
+      "is_native_ads": true
+    },
+      
+    "custom_ads": {
+          "qureka_link": "https://294.set.predchamp.com/",
+          "is_quraka_banner": true,
+          "is_quraka_intera": true,
+          "is_quraka_native": true,
+          "is_quraka_open_ad": true,
+          "close_button_to_direct_web": true,
+          "quraka_intra_image": [
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
+          ],
+          "quraka_native_image": [
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+          ],
+          "quraka_banner_image": [
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+            "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+          ],
+          "quraka_open_ad_image": {
+            "live_apps_json_url": [
+      {
+        "fields": {
+          "Links": "https://play.google.com/store/apps/details?id=com.yoyolive.llc",
+          "image": "https://play-lh.googleusercontent.com/33_mPNzvE6WRV6czGRm8EhSrSh0G9wnRQRfMXfcqQLU8j3z4UYu7nrgw5SmaP9UFf0U=s180-rw",
+          "title": "YOYO: Live Random Video Chat"
+        }
+      },
+      {
+        "fields": {
+          "Links": "https://play.google.com/store/apps/details?id=com.money_count_save",
+          "image": "https://play-lh.googleusercontent.com/kB7MXSAbO8vKrfbnM8QrzIcNbNm2tWH8rImp5xsIZY1lwKqK3FkNkEFRQpyskJliEbQ=s180-rw",
+          "title": "Cash Counter : Cash Calculator"
+        }
+      }
+    ],
+            "is_live_apps": true, 
+            "open_ad_timer": 8,
+            "is_live_apps_randomly": false,
+            "quraka_image": [
+              "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+              "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+              "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+              "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+              "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+              "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+            ]
+          }
+        },	
+    "app_lovin": {
+      
+      "is_unlimited_ads": true,
+      
+      "id_unit_banner": "56a2a4469137334d",
+      "id_unit_intra": "3a64cf25f817c857",
+      "id_unit_native": "",
+      "id_unit_native_multiple": 
+      {
+                    "small":"",
+                      "medium":"",
+                    "manual":"5e7d28c22a6f6d79"
+          },
+      "rewared_ads_unit_id": "a9f4669e2348538e",
+      "is_banner_ads": true,
+      "is_interstitial_ads": true,
+      "is_native_ads": true,
+      "is_rewared_ads": true
+       },
+      
+    "unity_ads": {	
+      "game_id": "4737797",
+      "is_intra_ads": true,
+      "is_banner_ads": true,
+      "is_rewared_ads": true
+    }	
+    }	

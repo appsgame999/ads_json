@@ -11,11 +11,11 @@
       "interstitial_ad_time_interval": 1
     },
     "google_ads": {
-      "banner_ad_unit_id_android": "/21753324030,22820476569/com.zalmistickers.footballstickers.football_Banner",
-      "interstitial_ad_unit_id_android": "/21753324030,22820476569/com.zalmistickers.footballstickers.football_Interstitial",
-      "app_open_ad_unit_id_android": "/21753324030,22820476569/com.zalmistickers.footballstickers.football_AppOpen",
-      "native_ads_unit_id_android": "/21753324030,22820476569/com.zalmistickers.footballstickers.football_Native",
-      "rewared_ads_unit_id": "/6499/example/rewarded",
+      "banner_ad_unit_id_android": "/21753324030,22829501112/com.zalmistickers.footballstickers.football_new_Banner",
+      "interstitial_ad_unit_id_android": "/21753324030,22829501112/com.zalmistickers.footballstickers.football_new_Interstitial",
+      "app_open_ad_unit_id_android": "/21753324030,22829501112/com.zalmistickers.footballstickers.football_new_AppOpen",
+      "native_ads_unit_id_android": "/21753324030,22829501112/com.zalmistickers.footballstickers.football_new_Native",
+      "rewared_ads_unit_id": "/21753324030,22829501112/com.zalmistickers.footballstickers.football_new_Rewarded",
       "native_video_ads_unit_id_android": "/6499/example/native-video",
       "is_banner_ads": true,
       "is_open_ads": true,

@@ -11,7 +11,7 @@
     "banner_ad_unit_id_android": "/21753324030,22829501112/com.note_app_playstore.quick_notes.wordpad.notebook.notescolorful.word.notepad.notebook_Banner",
     "interstitial_ad_unit_id_android": "/21753324030,22829501112/com.note_app_playstore.quick_notes.wordpad.notebook.notescolorful.word.notepad.notebook_Interstitial",
     "app_open_ad_unit_id_android": "/21753324030,22829501112/com.note_app_playstore.quick_notes.wordpad.notebook.notescolorful.word.notepad.notebook_AppOpen",
-    "native_ads_unit_id_android": "/21753324030,22829501112/com.note_app_playstore.quick_notes.wordpad.notebook.notescolorful.word.notepad.notebook_Native",
+    "native_ads_unit_id_android": "/6499/example/native",
     "native_video_ads_unit_id_android": "/21753324030,22829501112/com.note_app_playstore.quick_notes.wordpad.notebook.notescolorful.word.notepad.notebook_Native",
     "rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
     "is_banner_ads": true,

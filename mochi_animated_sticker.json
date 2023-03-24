@@ -13,7 +13,7 @@
     "google_ads": {
    "banner_ad_unit_id_android": "/21753324030,22820476569/com.wastickerappsmochi.mochipeachcat.mochistickers.animated_Banner",
 
-      "interstitial_ad_unit_id_android": "/21753324030,22820476569/com.wastickerappsmochi.mochipeachcat.mochistickers.animated_Interstitial",
+      "interstitial_ad_unit_id_android": "/6499/example/interstitial",
 
       "app_open_ad_unit_id_android": "/21753324030,22820476569/com.wastickerappsmochi.mochipeachcat.mochistickers.animated_AppOpen",
 
